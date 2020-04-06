@@ -1,8 +1,8 @@
-# kmproject
+# Knowledge Management project - Product Reccomendation App
 
-A new Flutter application.
+A Flutter application to help local businesses and kirana owners build a recommendation system that helps maximize profits.
 
-## Getting Started
+## Overview
 
 This project is a starting point for a Flutter application.
 
