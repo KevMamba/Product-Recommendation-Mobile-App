@@ -1,4 +1,4 @@
-# Knowledge Management - Product Reccomendation App
+# Knowledge Management - Product Recommendation App
 
 **Project Team:**
 - Karthik N - PES1201700692
