@@ -1,5 +1,5 @@
 # Knowledge Management - Product Recommendation App
-
+Knowlegde Management - UE17CS342
 **Project Team:**
 - Karthik N - PES1201700692
 - Arushi Bohra - PES1201700703
